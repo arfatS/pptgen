@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.3.4-–-System-Admin-–-Content-Repo-–-Themes-–-Default" transform="translate(-117.000000, -376.000000)">
+            <g id="Group-47" transform="translate(72.000000, 336.000000)">
+                <g id="Star-icon" filter="url(#filter-1)" transform="translate(51.000000, 46.000000)">
+                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="32" height="32" rx="16"></rect>
+                    <circle id="Oval" fill-opacity="0.3" fill="#215EFF" cx="16" cy="16" r="13"></circle>
+                    <path d="M17.1011986,8.78561121 L18.2023973,12.1697826 C18.3635483,12.6532357 18.7932843,12.9755377 19.3035959,12.9755377 L22.8489183,12.9755377 C23.9501169,12.9755377 24.43357,14.3990384 23.5203809,15.0436424 L20.646521,17.1386057 C20.2436435,17.4340492 20.0824925,17.9443608 20.216785,18.4278138 L21.3179836,21.8119852 C21.6671441,22.8594668 20.4585115,23.7457974 19.5453224,23.1011933 L16.6714626,21.0062301 C16.268585,20.7107866 15.731415,20.7107866 15.3285374,21.0062301 L12.4546776,23.1011933 C11.5414885,23.7457974 10.3328559,22.8863253 10.6820164,21.8119852 L11.783215,18.4278138 C11.944366,17.9443608 11.7563565,17.4340492 11.353479,17.1386057 L8.47961914,15.0436424 C7.56643004,14.3990384 8.04988309,12.9755377 9.15108172,12.9755377 L12.6964041,12.9755377 C13.2067157,12.9755377 13.6364517,12.6532357 13.7976027,12.1697826 L14.8988014,8.78561121 C15.2479619,7.7381296 16.7520381,7.7381296 17.1011986,8.78561121 Z" id="Path" fill="#215EFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

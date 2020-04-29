@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="17px" viewBox="0 0 40 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <desc>Created with Sketch.</desc>
+    <g id="Marketing-collateral-genrator" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="hide" fill="#717171">
+            <path d="M-1.13686838e-13,8.49997659 C-1.13686838e-13,13.1754519 3.90194318,17 8.66297727,17 L31.3370227,17 C36.1016761,17 40,13.1749836 40,8.49997659 C40,3.82498907 36.1016761,0 31.3370227,0 L8.66297727,0 C3.90194318,0 -1.13686838e-13,3.82452078 -1.13686838e-13,8.49997659 Z" id="Shape" fill-opacity="0.2"></path>
+            <path d="M8.49384491,3.17391304 C11.5187692,3.17391304 14,5.63878711 14,8.66774811 C14,11.6934644 11.5195951,14.173913 8.49384491,14.173913 C5.46483033,14.173913 3,11.6926778 3,8.66774811 C3,5.6395737 5.46565625,3.17391304 8.49384491,3.17391304 Z" id="Path"></path>
+            <text font-family="MavenPro-Regular, Maven Pro" font-size="7" font-weight="normal">
+                <tspan x="16" y="11">HIDE</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

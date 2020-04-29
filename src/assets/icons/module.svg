@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Modules</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.73">
+        <g id="icon-module" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M14.5,0 L1.5,0 C0.673,0 0,0.673 0,1.5 L0,14.5 C0,15.327 0.673,16 1.5,16 L14.5,16 C15.327,16 16,15.327 16,14.5 L16,1.5 C16,0.673 15.327,0 14.5,0 Z M15,14.5 C15,14.776 14.776,15 14.5,15 L1.5,15 C1.224,15 1,14.776 1,14.5 L1,1.5 C1,1.2245 1.224,1 1.5,1 L14.5,1 C14.776,1 15,1.2245 15,1.5 L15,14.5 Z M3,5 L3,3 L13,3 L13.0005,5 L3,5 Z M3,13 L3,8 L5.46092323,8 L5.46153846,13 L3,13 Z M6.84665385,13 L6.84665385,8 L12.9998847,8 L13.0005,13 L6.84665385,13 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

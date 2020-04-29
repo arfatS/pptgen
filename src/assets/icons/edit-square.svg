@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="15px" viewBox="0 0 17 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Edit</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group-10" transform="translate(1.000000, 0.000000)" stroke="#979797">
+            <g id="new">
+                <path d="M13,8.77777778 L13,14.2222222 C13,14.651777 12.6362313,15 12.1875,15 L0.8125,15 C0.363768641,15 0,14.651777 0,14.2222222 L0,1.77777778 C0,1.34822297 0.363768641,1 0.8125,1 L8.125,1" id="Path"></path>
+                <path d="M14.104864,0.417031571 L14.5829684,0.895136007 C15.1390105,1.4511781 15.1390105,2.35270047 14.5829684,2.90874256 L7.49171099,10 L5,10 L5,7.50828901 L12.0912574,0.417031571 C12.6472995,-0.139010524 13.5488219,-0.139010524 14.104864,0.417031571 Z M11.2292775,1.27901154 L13.7209885,3.77072253 L11.2292775,1.27901154 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

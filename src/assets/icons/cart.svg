@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="18px" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Cart</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.73" stroke-linecap="square">
+        <g id="icon-cart" transform="translate(1.000000, 1.000000)" stroke="#FFFFFF">
+            <polygon id="Path" points="2.70846395 0.695652174 19.6363636 0.695652174 17.9435737 9.73913043 4.40125392 9.73913043"></polygon>
+            <ellipse id="Oval" cx="6.43260188" cy="14.2608696" rx="1.69278997" ry="1.73913043"></ellipse>
+            <ellipse id="Oval-Copy-2" cx="15.9122257" cy="14.2608696" rx="1.69278997" ry="1.73913043"></ellipse>
+            <path d="M2.70846395,0.347826087 L0,0.347826087" id="Path" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>

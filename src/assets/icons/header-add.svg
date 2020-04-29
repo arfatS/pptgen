@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Add New</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Header" transform="translate(-773.000000, -40.000000)">
+            <g id="Group-16">
+                <g id="Add-from-above" transform="translate(771.000000, 38.000000)">
+                    <g id="Group-12" transform="translate(2.000000, 2.000000)">
+                        <rect id="Rectangle" stroke="#215EFF" fill="#215EFF" x="0.5" y="0.5" width="25" height="25" rx="12.5"></rect>
+                        <polygon id="Shape" fill="#FFFFFF" points="12.1428571 7 12.1428571 12.1428571 7 12.1428571 7 13.8571429 12.1428571 13.8571429 12.1428571 19 13.8571429 19 13.8571429 13.8571429 19 13.8571429 19 12.1428571 13.8571429 12.1428571 13.8571429 7"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

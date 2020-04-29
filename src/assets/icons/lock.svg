@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="16px" viewBox="0 0 13 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Required</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Required" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="lock" transform="translate(1.000000, 1.000000)" stroke="#979797">
+            <rect id="Rectangle" x="0" y="6" width="11" height="8"></rect>
+            <path d="M5.5,0 L5.5,0 C7.70913896,0 9.5,1.67893219 9.5,3.75 L9.5,6 L1.5,6 L1.5,3.75 C1.5,1.67893219 3.290861,0 5.5,0 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

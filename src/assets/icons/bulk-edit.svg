@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.3.2a-SA_cntnt_rpo_MASTER-COVER" transform="translate(-695.000000, -146.000000)">
+            <g id="icon/bulk-edit" transform="translate(695.000000, 146.000000)">
+                <g id="noun_Gear_2434677-Copy" stroke="#636363">
+                    <g id="Group-8">
+                        <g id="secondary-button">
+                            <rect id="Rectangle-Copy-4" x="0.5" y="0.5" width="39" height="39" rx="4"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(12.000000, 14.000000)">
+                    <g id="Group-19" transform="translate(0.000000, 0.000000)" fill="#636363" fill-rule="nonzero">
+                        <rect id="Rectangle" x="4.78405316" y="0.0177187154" width="10.1705426" height="2.48062016"></rect>
+                        <rect id="Rectangle" x="4.78405316" y="4.80177187" width="10.1705426" height="2.48062016"></rect>
+                        <rect id="Rectangle" x="4.78405316" y="9.58582503" width="10.1705426" height="2.48062016"></rect>
+                        <rect id="Rectangle" x="4.6673776e-13" y="-2.53796983e-13" width="2.55149502" height="2.48062016"></rect>
+                        <rect id="Rectangle" x="4.6673776e-13" y="4.78405316" width="2.55149502" height="2.48062016"></rect>
+                        <rect id="Rectangle" x="4.6673776e-13" y="9.56810631" width="2.55149502" height="2.48062016"></rect>
+                    </g>
+                    <polygon id="Rectangle" fill="#F4F7FC" transform="translate(13.964439, 10.755136) rotate(45.000000) translate(-13.964439, -10.755136) " points="10.6311054 1.23132688 17.2977721 1.23132688 17.2977721 20.2789459 10.6311054 20.2789459"></polygon>
+                    <path d="M15.9812605,5.67486304 L18.2479602,7.94156275 L11.6740132,14.5155098 L9.40731348,12.2488101 L15.9812605,5.67486304 Z M8.94161969,12.786337 L11.1325283,14.9772456 L8.07962285,15.7314928 L8.94161969,12.786337 Z M17.7770873,3.8790363 L20.043787,6.145736 L18.9618804,7.2276426 L16.6951807,4.9609429 L17.7770873,3.8790363 Z" id="Combined-Shape" fill="#636363"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
